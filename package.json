@@ -1,6 +1,6 @@
 {
-  "name": "rn-vertical-slider",
-  "version": "2.0.1",
+  "name": "rn-vertical-slider-module",
+  "version": "1.0.1",
   "description": "A vertical Slider for React Native written entirely in javascript.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -39,13 +39,13 @@
     "rn",
     "rn-vertical-slider"
   ],
-  "repository": "https://github.com/sacmii/rn-vertical-slider",
-  "author": "Aswin Lakshmanan <aswinlak9@gmail.com> (https://github.com/sacmii)",
+  "repository": "https://github.com/MayanthaJ/react-native-vertical-slider-component",
+  "author": "Mayantha Jayawardena <mpjayawardena@gmail.com> (https://github.com/MayanthaJ)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sacmii/rn-vertical-slider/issues"
+    "url": "https://github.com/MayanthaJ/react-native-vertical-slider-component/issues"
   },
-  "homepage": "https://github.com/sacmii/rn-vertical-slider#readme",
+  "homepage": "https://github.com/MayanthaJ/react-native-vertical-slider-component#readme",
   "devDependencies": {
     "@commitlint/config-conventional": "^8.3.4",
     "@react-native-community/bob": "^0.16.2",
